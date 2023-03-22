@@ -1,4 +1,4 @@
-    <script>
+
 
         // Get user's IP address using ipify API
 fetch('https://api.ipify.org?format=json')
@@ -33,5 +33,4 @@ fetch('https://api.ipify.org?format=json')
   })
   .catch(error => console.error(error));
         
-        
-        </script>
+      
